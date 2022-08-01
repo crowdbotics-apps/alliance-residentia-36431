@@ -1006,6 +1006,9 @@
 "@modules/splash@file:./modules/splash":
   version "1.0.0"
 
+"@modules/splash@file:./modules/splash/":
+  version "1.0.0"
+
 "@modules/terms-and-conditions@file:./modules/terms-and-conditions":
   version "1.0.1"
   dependencies:
@@ -1231,9 +1234,6 @@
   version "1.0.0"
 
 "@screens/login@file:./screens/login":
-  version "1.0.0"
-
-"@screens/login@file:./screens/login/":
   version "1.0.0"
 
 "@screens/notifications-preference@file:./screens/notifications-preference":
