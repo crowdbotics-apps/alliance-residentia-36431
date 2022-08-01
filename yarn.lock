@@ -1230,6 +1230,9 @@
 "@screens/forgot-password@file:./screens/forgot-password":
   version "1.0.0"
 
+"@screens/forgot-password@file:./screens/forgot-password/":
+  version "1.0.0"
+
 "@screens/login@file:./screens/login":
   version "1.0.0"
 
