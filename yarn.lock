@@ -998,7 +998,7 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@modules/splash@file:./modules/splash/":
+"@modules/splash@file:./modules/splash":
   version "1.0.0"
 
 "@react-native-community/cli-debugger-ui@^5.0.1":
@@ -1218,6 +1218,9 @@
   version "1.0.0"
 
 "@screens/login@file:./screens/login":
+  version "1.0.0"
+
+"@screens/notifications-preference@file:./screens/notifications-preference/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":

@@ -19,6 +19,7 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/forgot-password": "file:./screens/forgot-password/",
     "@screens/login": "file:./screens/login/",
+    "@screens/notifications-preference": "file:./screens/notifications-preference/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",
